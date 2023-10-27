@@ -5,7 +5,7 @@ sum = 0
 med = 0
 while True:
     for n in range(5):
-        input(f"digite o {n+1}º número:")
+        float(input(f"digite o {n+1}º número:"))
         sum += n + 1
     med = sum/5
     break
