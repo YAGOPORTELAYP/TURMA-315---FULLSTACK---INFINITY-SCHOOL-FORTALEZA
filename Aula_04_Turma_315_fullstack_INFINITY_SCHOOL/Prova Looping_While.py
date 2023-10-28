@@ -10,4 +10,3 @@ while True:
         break
 
 print(f"Foram digitados {n} números.\nA soma deles é de {med}.\nE a média deles é de {med}.")
- vai pra merda
