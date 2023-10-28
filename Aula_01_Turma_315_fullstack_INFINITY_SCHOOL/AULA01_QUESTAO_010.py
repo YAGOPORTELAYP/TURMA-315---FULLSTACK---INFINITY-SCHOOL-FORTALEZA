@@ -1,5 +1,0 @@
-n1 = int(input("Digite um número:"))
-n2 = int(input("Digite outro número:"))
-div = int(n1/n2)
-resto = (n1-(n2*div))
-print("O resto da divisão é:",resto)
